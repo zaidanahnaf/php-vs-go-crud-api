@@ -102,7 +102,6 @@ This documentation covers the implementation of a simple CRUD API using **PHP Na
 ## 3. Conclusion & Recommendations
 - **PHP is suitable for quick and simple projects**, especially with **Laravel**.
 - **Go is more optimized for high-performance and scalable APIs**, particularly with **Gin Framework**.
-- If interested in comparing more technologies, try **Node.js (Express.js)** or **Python (FastAPI)**.
 
 ---
 
@@ -110,4 +109,4 @@ This documentation covers the implementation of a simple CRUD API using **PHP Na
 - **To explore PHP further:** Use **Laravel** for a more structured API.
 - **To explore Go further:** Implement **middleware and JWT Authentication**.
 
-🔥 **Tried it? If you have questions or want to add more features, feel free to discuss!**
+**Tried it? If you have questions or want to add more features, feel free to discuss!**
